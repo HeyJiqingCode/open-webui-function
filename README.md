@@ -27,7 +27,6 @@ Functions run within the Open WebUI environment - they're fast, modular, and hav
 - **Filters**: Modify inputs/outputs for AI interactions
 - **Actions**: Add interactive buttons to chat messages
 
-⚠️ Only install Functions from trusted sources.
 
 ## Contributing
 
